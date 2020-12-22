@@ -1,0 +1,15 @@
+[submodule "4"]
+	path = 4
+	url = https://github.com/kon6443/BeforeArmy.git
+[submodule "5"]
+	path = 5
+	url = https://github.com/kon6443/BeforeArmy.git
+[submodule "99"]
+	path = 99
+	url = https://github.com/kon6443/BeforeArmy.git
+[submodule "BSTresssPrac"]
+	path = BSTresssPrac
+	url = https://github.com/kon6443/BeforeArmy.git
+[submodule "BStreePrac"]
+	path = BStreePrac
+	url = https://github.com/kon6443/BeforeArmy.git
